@@ -1,19 +1,18 @@
-site: yangdev
-url: https://313yang.github.io/
+site: 313yang.github.io
+url: https://313yang.github.io
 title: yangdev
-description: yang's development blog
+description: Yang's development blog
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
-  username: #yourusername
+  username: Yang
   card: summary
-  creator: #yourusername
+  creator: Yang
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: Yang
+  name: Yang
   avatar:
   email: #youremail
-  url: #yoururl
-permalink: pretty
+  url: https://313yang.github.io
 
 baseurl: ""
 
